@@ -1361,8 +1361,8 @@ zk.ev.on('group-participants.update', async (group) => {
  │  ᴘʀᴇғɪx : [ ${prefixe} ]
  │  ᴍᴏᴅᴇ : ${md}
  │  ᴘʟᴜɢɪɴs : 250
- │  ᴘʟᴀᴛғᴏʀᴍ : popkid
- │  ᴅᴇᴠ : mustaffa_254 🇰🇪
+ │  ᴘʟᴀᴛғᴏʀᴍ : Narcotics
+ │  ᴅᴇᴠ : 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎
  ╰─────────────────◆
 
 sᴜᴘᴘᴏʀᴛ ʙʏ sᴜʙsᴄʀɪʙɪɴɢ
