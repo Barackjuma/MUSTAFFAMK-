@@ -81,7 +81,7 @@ zokou({
     const imdbData = response.data;
 
     let imdbInfo = "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n";
-    imdbInfo += " ``` 𝕀𝕄𝔻𝔹 𝕊𝔼𝔸ℝℂℍ```\n";
+    imdbInfo += " ``` 𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒```\n";
     imdbInfo += "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";
@@ -131,8 +131,8 @@ zokou({
     const imdbData = response.data;
 
     let imdbInfo = "Tap on the link to join movie channel on telegram and download movies there : https://t.me/ibrahimtechai\n";
-    imdbInfo += " ``` BMW MD FILMS```\n";
-    imdbInfo += "*Made by Ibrahim Adams*\n";
+    imdbInfo += " ``` 𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 FILMS```\n";
+    imdbInfo += "*Made by 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";
     imdbInfo += "⭐Assessment : " + imdbData.Rated + "\n";
