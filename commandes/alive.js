@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("USKUE FALA BANA😒😂") ; return};
 
-      await   repondre("TANGU LINI A LEGIT 🕷️𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒🕷️ IKAZIMA,, DON'T BE A FOOL");
-         repondre("YOO DON'T DISTURB ME 🤦 I'M ALWAYS ACTIVE :)")
+      await   repondre("🕷️𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒🕷️ IS ALIVE");
+         repondre("Powered by 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎")
      }
  } else {
 
