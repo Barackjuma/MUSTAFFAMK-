@@ -11,7 +11,7 @@ zokou({nomCom:"mustaffa",reaction:"📡",categorie:"IA"},async(dest,zk,commandeO
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("HI IF YOU ARE A GIRL MUSTAFFA LOVES YOU👌😘❤️❤️.")}
+    {return repondre("HI IF YOU ARE A GIRL 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎ LOVES YOU👌😘❤️❤️.")}
     //var quest = arg.join(' ');
   try{
     
@@ -58,7 +58,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
       const response = await axios.get(`http://api.maher-zubair.tech/ai/photoleap?q=${image}`);
       
       const data = response.data;
-      let caption = '*powered by MUSTAFFA-MD*';
+      let caption = '*powered by 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*';
       
       if (data.status == 200) {
         // Utiliser les données retournées par le service
@@ -98,7 +98,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
   });
 
 
-zokou({ nomCom: "gpt", reaction: "🤔", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "gpt", reaction: "⏳", categorie: "IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
