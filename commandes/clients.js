@@ -29,7 +29,7 @@ zokou({
     // Fetch config vars from Heroku API
     const configVars = await heroku.get(baseURI);
 
-    let str = '*╭───༺XBOT Heroku vars༻────╮*\n\n';
+    let str = '*╭───༺𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 Heroku vars༻────╮*\n\n';
     
     // Loop through the returned config vars and format them
     for (let key in configVars) {
