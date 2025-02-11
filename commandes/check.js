@@ -32,7 +32,7 @@ zokou({
   const selectedAudio = audioFiles[Math.floor(Math.random() * audioFiles.length)];
 
   // External URLs for references
-  const murl = 'https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T';
+  const murl = 'https://wa.me/+254717261760';
   const img = 'https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg';
 
   // Audio message object
@@ -46,8 +46,8 @@ zokou({
     fileName: 'shizo',
     contextInfo: {
       externalAdReply: {
-        title: '👻MUSTAFFA IS ONLINE👻',
-        body: 'TAP HERE TO FOLLOW OUR CHANNEL',
+        title: '👻🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎ IS ONLINE👻',
+        body: 'TAP HERE TO CONTACT OWNER',
         thumbnailUrl: img,
         sourceUrl: murl,
         mediaType: 1,
