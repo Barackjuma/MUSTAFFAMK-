@@ -28,7 +28,7 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "ᴍᴜsᴛᴀғғᴀ ᴛᴇᴄʜ 👻",
+        title: "🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎ 👻",
         body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
         thumbnailUrl: "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T",
