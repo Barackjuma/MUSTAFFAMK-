@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *MUSTAFFA 𝗠𝗗 𝗜𝗡𝗙𝗢* 
+      *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
 *𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/Barackjuma/MUSTAFFAMK-
 
-*𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+*𝐎𝐖𝐍𝐄𝐑*
+> https://wa.me/+254717261760
 ⁠
 ╭───────────────────❒
 │⏰⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│⚽ *DEV1* : *MUSTAFFA👌*
-│⏰ *DEV2* : *MUSTAFFA*
+│⚽ *DEV1* : *NARCOTICS👌*
+│⏰ *DEV2* : *🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *MUSTAFFA 𝗧𝗘𝗖𝗛*
+     *𝐄𝐧𝐠𝐢𝐧𝐞 𝐛𝐲 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
 
 ❒────────────────────❒`;
 
@@ -58,7 +58,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒*, déveloper 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -68,7 +68,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒*, déveloper 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
