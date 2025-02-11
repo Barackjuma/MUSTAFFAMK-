@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *POPKID-MD-WABOT*`
+ *NARCOTICS-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,10 +71,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("USKUE FALA BANA🙆😒😂") ; return};
+        if(!superUser) { repondre("USKUE FALA BANA😒😂") ; return};
 
-      await   repondre("TANGU LINI A LEGIT 🕷️MUSTAFFA MD🕷️ IKAZIMA,, DON'T BE A FOOL");
-         repondre("YOO DON'T DISTURB ME 🤦AM ALWAYS ACTIVE :)")
+      await   repondre("TANGU LINI A LEGIT 🕷️𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒🕷️ IKAZIMA,, DON'T BE A FOOL");
+         repondre("YOO DON'T DISTURB ME 🤦 I'M ALWAYS ACTIVE :)")
      }
  } else {
 
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *MUSTAFFA MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒* is alive just like you gee. ')
 
 }
     });
