@@ -27,7 +27,7 @@ keith({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
 
   // Prepare the initial message tag
   let tag = `========================\n  
-        🌟 *MUSTAFFA-MD* 🌟
+        🌟 *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
