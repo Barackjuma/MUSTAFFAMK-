@@ -13,7 +13,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Mustaffa Tech 👻*");
+    return repondre("*This command is restricted to the bot owner or 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎ 👻*");
   }
 
   const appname = s.HEROKU_APP_NAME;
@@ -56,7 +56,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Mustaffa Tech 👻*");
+    return repondre("*This command is restricted to the bot owner or 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎ 👻*");
   }
 
   const appname = s.HEROKU_APP_NAME;
