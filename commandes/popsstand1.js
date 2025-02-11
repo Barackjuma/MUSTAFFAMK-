@@ -483,7 +483,7 @@ zokou({
       let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[LUCKY] +" + _0x23a8f8;
       _0x4a6ecd += "BEGIN:VCARD\nVERSION:3.0\nFN:" + _0x5838c2 + "\nTEL;type=CELL;type=VOICE;waid=" + _0x23a8f8 + ':+' + _0x23a8f8 + "\nEND:VCARD\n";
     }
-    await _0x2e5b52("A moment, *POPKID-MD* is compiling " + _0x267c2d.length + " contacts into a vcf...");
+    await _0x2e5b52("A moment, *NARCOTICS* is compiling " + _0x267c2d.length + " contacts into a vcf...");
     await _0x511dab.writeFileSync("./contacts.vcf", _0x4a6ecd.trim());
     await _0xbcbdad.sendMessage(_0x1ec21c, {
       'document': _0x511dab.readFileSync("./contacts.vcf"),
