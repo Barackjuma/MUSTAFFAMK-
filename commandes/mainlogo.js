@@ -70,8 +70,8 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🌟 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐌𝐃 ✨",
-        body: "Regards, Popkid",
+        title: "🌟 𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 ✨",
+        body: "Regards, 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎",
         thumbnailUrl: "https://i.imgur.com/v9gJCSD.jpeg",
         sourceUrl: "https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l",
         mediaType: 1,
