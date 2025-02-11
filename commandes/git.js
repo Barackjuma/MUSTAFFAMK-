@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TOSH MD IMPORTANT INFO* 
+   *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+> https://github.com/Barackjuma/MUSTAFFAMK
 
-*WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
+*WHATSAPP OWNER*
+> https://wa.me/+254717261760
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
+│❒⁠⁠⁠⁠ *DEV1* : *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒*
+│❒⁠⁠⁠⁠ *DEV2* : *🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *𝐄𝐧𝐠𝐢𝐧𝐞 𝐛𝐲 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
 
 ❒────────────────────❒`;
 
