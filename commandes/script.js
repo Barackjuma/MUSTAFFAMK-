@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *MUSTAFFA MD IMPORTANT INFO* 
+     *𝐍𝐀𝐑𝐂𝐎𝐓𝐈𝐂𝐒 INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/Barackjuma/MUSTAFFAMK-
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+*WHATSAPP DEVELOPER*
+> https://wa.me/+254717261760
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mustaffa mk*
-│❒⁠⁠⁠⁠ *DEV2* : *Mustaffa Mk*
+│❒⁠⁠⁠⁠ *DEV1* : *🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
+│❒⁠⁠⁠⁠ *DEV2* : *Barack Obama*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Mustaffa Tech*
+     *𝐄𝐧𝐠𝐢𝐧𝐞 𝐛𝐲 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*
 
 ❒────────────────────❒`;
 
