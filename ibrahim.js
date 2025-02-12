@@ -153,7 +153,7 @@ setInterval(async () => {
 });
 
         // Default auto-reply message
-let auto_reply_message = "ᴛʜᴇ ᴏᴡɴᴇʀ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴀᴠᴀɪʟᴀʙʟᴇ,,ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. I will get back to you shortly.\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎.";
+let auto_reply_message = "Hello there 👋. My owner is unavailable at the moment. Please leave a message, and he'll get in touch with you at his earliest convenience. Thank you.\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎.";
 
 // Track contacts that have already received the auto-reply
 let repliedContacts = new Set();
